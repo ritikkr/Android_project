@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+    <group android:checkableBehavior="single">
+
+        <item android:id="@+id/nav_add"
+            android:title="Add"
+            android:icon="@drawable/ic_add"/>
+
+        <item android:id="@+id/nav_check"
+            android:icon="@drawable/ic_check"
+
+            android:title="Check" />
+        <item android:id="@+id/nav_note"
+            android:icon="@drawable/ic_note"
+            android:title="Note" />
+        <item android:id="@+id/nav_rem"
+            android:icon="@drawable/ic_remind"
+            android:title="Reminder" />
+
+
+    </group>
+
+</menu>

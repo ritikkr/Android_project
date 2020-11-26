@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">SPC</string>
+    <string-array name="outlets">
+        <item>Batra Banquet, Naraina</item>
+        <item></item>
+        <item>CDH Starling Mall,Noida</item>
+        <item>CDH Vasant Kunj</item>
+        <item>CDH RkPuram</item>
+        <item>CDH Sangam Palace, Rkpuram</item>
+        <item>CDH Aerocity</item>
+        <item>CDH SelectCityWalk, Saket</item>
+        <item>CDH Ambience Mall, Noida</item>
+        <item>CDH Diplomatic Enclave, chanakyapuri</item>
+        <item>CDH Cross Point Mall, Gurgaon</item>
+        <item>CDH Janpat</item>
+        <item>Nueva, RkPuram</item>
+
+        <item>CDH Mall of India, Noida</item>
+
+    </string-array>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+</resources>
